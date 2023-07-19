@@ -1,0 +1,12 @@
+Create quotation-adding other detail section-add insuance history-future date should not be allow for effective date(can be check at client-noah  for taxy lory vehicle)
+create policy page-at vehcile information table at main page- comma is pending for net premium value 
+Data should not be allowed to edit or delete in policy view page
+Policy Number and quoatation no is breaking in all pdfs after creating new client and policy
+Limitation code error notification in policy show page
+after decimal four degit showing for trailer premium in premium page while adding vehicle for quoattion , ex:- 168.9,479
+all data needs to be capitalize for quotation show page
+Net premium after loading calculation not coming correct in policy(trailer selected case)
+no certificate of insurance code found for contract motor cycle in create quoatation
+Limitation as to use need to rename as Certifcate of insurance code in create quote
+Toggling back to vehicle info page is not working at create quotation
+special condition data is not saving from quotation to policy also the value in particular not showing in schedule pdf 

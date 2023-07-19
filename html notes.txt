@@ -1,0 +1,94 @@
+22. Paragraph Element
+its a block element, take a block space.
+
+23. Heading Element
+H1 should one in a web page.
+all heading should be come decendent of their parent like h2 k baad h3 aayega, h3 k baad h4 aayega. means h4 k baad h2 nhi aana chahiye.
+
+
+all html document should have head and body element
+head:- also call document meta data element, consist thing whic dont show up onn the page.
+meta data: - information about webpage, any script which we are loading, stylesheets.
+Title Element:- title of the tab of thw web page.
+there will be one head and one body element always will be there.
+body:- all of the content which we want to show on web page.
+alt+shift+f  for formatting
+
+alt+shift+down arrow for copying
+
+anchor tag:- 
+attributes:- which we define inside the tags
+
+Inline and Block Level Elements:
+
+anchor tage is Inline
+<p> is a block level element</p>
+
+
+html 5 k notes lena
+div:-is a generic container to group thing together.
+div is block level element.
+span;- is a generic conatiner but Inline
+
+HTML ENTITIES:-speacial codes for different caracters.
+semantic elements k notes lena
+take note from video slide:- playing with semantic element
+
+*we should always use semantic element to give meaning to our web page, which is suppose to represent dominatent content of the body of the document.
+we should exclude the content whichh is repeated.
+ex:- sidebar, navlinks, copyright info, logos, search forms.
+- main ; indicates this is our main content of the web page
+-nav: indicatesit is a navigation bar
+navigation links:- is which is taking us in some other page, so for all the navigation links we should use nav elelment
+section : for different sections, but better than div, 
+we can group or section our larger document
+* article:-
+*aside:-which is not part of the main dpcument,indirectily related.
+* footer:- we can have more than one footer on the page, like inside of the article.
+*Time and dateTimme is also semantic for using date and time in our webpage.
+*figcaption: for image caption we use this.
+*Emmets: = 
+main>section>h1 = 
+ <main>
+    <section>
+      <h1></h1>
+    </section>
+  </main>
+
+* h1+h2+h2
+<h1></h1>
+  <h2></h2>
+  <h2></h2>
+
+* ul>li*5
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+
+*ul>li.item$*4 =
+ <ul>
+    <li class="item1"></li>
+    <li class="item2"></li>
+    <li class="item3"></li>
+    <li class="item4"></li>
+    <li class="item5"></li>
+  </ul>
+
+*  ul>li*5>a[href=$]{click here}
+<ul>
+    <li><a href="1">click here</a></li>
+    <li><a href="2">click here</a></li>
+    <li><a href="3">click here</a></li>
+    <li><a href="4">click here</a></li>
+    <li><a href="5">click here</a></li>
+  </ul>
+
+
+:= Unit Goals
+take notes
+
+
+
